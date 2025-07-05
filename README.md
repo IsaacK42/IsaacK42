@@ -1,52 +1,62 @@
 <!-- GitHub Profile README for @darkbyte42 -->
 
-<h2 align="center">Hey, I’m Isaac 👋</h2>
+<h2 align="center">Hey, I’m IsaacK42 – aka <code>Darkbyte</code> 👋</h2>
 <p align="center">
-  Self-taught developer & maker who turns ideas into code, pixels, and printed parts.<br>
-  From LAN cafés and clan templates to embedded IoT widgets and custom game engines, I’ve been chasing the fun side of technology my whole life.
+  Developer. Builder. Tinkerer. Sharing projects and knowledge from the edge.<br>
+  From LAN cafés and clan templates to IoT widgets, overlay pets, and full-stack web tools—I chase what’s fun to build and useful to share.
 </p>
 
 ---
 
-## 🔧 Core Competencies
-| Code First | Frameworks / Engines | DevOps & Hardware |
-|------------|----------------------|-------------------|
-| C# · Python · JavaScript · Lua | Flask · React · Unity · CryEngine · Win32 API · Bootstrap | Linux servers · Git · GitHub Actions · AWS · Azure |
-| Modern C++ (learning) · Java   | Torque3D · ESP32 / MicroPython · Arduino (C++) | 3D Printing (Prusa) · Fusion 360 |
+## 🧰 What I Work With
 
-*Comfortable jumping layers—from low-level C++ Win32 to pixel-perfect front-end components.*
+| 🧠 Code & Logic | ⚙️ Systems & Frameworks | 🔌 Hardware & Ops |
+|----------------|-------------------------|-------------------|
+| Python · C++ · C# · JavaScript · Lua | Flask · Astro · React · Unity · Win32 API · Tailwind | ESP32 · MicroPython · GitHub Actions · AWS · Fusion 360 |
+| Bash · SQL · HTML/CSS · Markdown | GDI+ · MDX · Bootstrap · Torque3D | Linux servers · 3D printing (FDM/resin) · PrusaSlicer |
 
----
-
-## 🌱 Currently Exploring
-- **Native desktop experiences** with C++/Win32 & GDI+  
-- **Game-centric tooling** for overlays, automation, and server ops  
-- **AI / ML hooks** to level-up workflows and gameplay analytics  
-- **Cloud deployment** pipelines (AWS / Azure) for side projects  
+*Comfortable across the stack—from bare-metal logic to pixel polish.*
 
 ---
 
-## 🚀 Selected Projects & Highlights
-| Project | What It Does | Tech & Role |
-|---------|--------------|-------------|
-| **Desktop Pet Overlay** | Animated, click-through companion that lives above your workspace | C++ · Win32 API · GDI+ · Sprite animation |
-| **Discord Bot Suites** | Voting, moderation, and data tools for gaming communities | Python · discord.py · PostgreSQL |
-| **IoT Sensor Widgets** | ESP32 + sensors for real-time metrics and alerts | MicroPython · MQTT · 3D-printed enclosures |
-| [**Z-Axis Labs**](https://www.etsy.com/shop/ZAxisLabs) | Etsy storefront for FDM & resin printable designs | Fusion 360 · PrusaSlicer · Small-batch production |
+## 🧪 Now Exploring
+- Native desktop overlays using C++/Win32 + GDI+  
+- Modular tooling for game-centric workflows  
+- Web-first blog & project pipelines with Astro  
+- Automation hooks & light AI integrations  
 
 ---
 
-## 🎨 Beyond the IDE
-Pixel-art tinkerer • Occasional 3D modeler • Long-time PC builder • Lifelong gamer with a soft spot for co-op sessions and cyberpunk aesthetics.
+## 🛰️ Featured Projects
+
+| Project | What It Does | Stack |
+|--------|---------------|-------|
+| **ByteInstyncts** | Transparent desktop assistant with drag, idle, and battery-driven behaviors | C++ · Win32 · GDI+ · Sprite sheets |
+| **Rust BP Tracker** | Blueprint coordination web tool for Rust team servers | Python · Flask · SQLite |
+| **Darkbyte Network** | Portfolio + blog built around extensible, minimal foundations | Astro · Tailwind · MDX |
+| [**Z-Axis Labs**](https://www.etsy.com/shop/ZAxisLabs) | Shop for 3D-printable tools, stands, and widgets | Fusion 360 · Print batching |
 
 ---
 
-## 🤝 Collaboration
-I enjoy trading ideas, pairing on game-adjacent tools, or reviewing interesting code.  
-*Feel free to open an issue, reach out on discussions, or drop a DM if a project resonates.*
+## 🧠 Philosophy
+
+> “Build what you can’t find. Learn what you don’t know. Share what you discover.”
+
+I'm driven by systems thinking, project clarity, and long-term usefulness.  
+Design isn’t just what it looks like—it’s how fast it gets you *there*.
+
+---
+
+## 🔗 Let’s Connect
+
+- 🌐 Portfolio: [darkbyte.network](https://darkbyte.network)
+- 🧵 Blog: [`/blog`](https://darkbyte.network/blog)
+- 🧰 Projects: [`/projects`](https://darkbyte.network/projects)
+- 📫 Email: [contact@darkbyte.network](mailto:contact@darkbyte.network)
+- 💬 Discord: [Join here](https://discord.gg/PGRnmJ3QGP)
 
 ---
 
 <p align="center">
-  <sub>“Build what you can’t find, learn what you don’t know, and share what you discover.”</sub>
+  <sub>Made with 🛠️, 🎮, and a bit of ☕</sub>
 </p>
